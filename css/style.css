@@ -59,7 +59,7 @@ Modules - reusable parts of our design
 Main components 
 
 -------------------------------- */
-header {
+/*header {
   height: 200px;
   line-height: 200px;
   text-align: center;
@@ -79,7 +79,7 @@ header h1 {
     font-size: 24px;
     font-size: 1.5rem;
   }
-}
+}*/
 
 #cd-timeline {
   position: relative;
